@@ -4,6 +4,8 @@ teaser: 让努力成为一种习惯
 tags: [markdown, workflow, foss]
 ---
 
+
+
 ##### 1.进入GITHUB中，利用git推拉进行
 			进入jekyll寻找自己喜欢的模板	
 			对jekyll中的资料进行浏览
@@ -17,7 +19,7 @@ tags: [markdown, workflow, foss]
 			对markdown简单语法作出了了解如：加粗,倾斜,删除线,超链接等
 									进度：60%
 
-#####课外知识：
+##### 课外知识：
 	睡眠管理：
 		睡眠时间是1.5小时倍数
 		睡前和睡后保证有90分钟的空闲时间
