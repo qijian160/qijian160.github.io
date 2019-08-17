@@ -24,7 +24,7 @@ nav_menu:
     url: /projects
     icon: /i/icons.svg#portfolio
   - name: GitHub
-    url: https://github.com/rlue/
+    url: https://github.com/qijian160/qijian160.github.io/blob/master/style.scss
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: 联系
