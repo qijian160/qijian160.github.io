@@ -1,5 +1,5 @@
 ---
-title: 2019年8月16日 日报 
+title: 2019年8月17日 日报 
 teaser: 让努力成为一种习惯
 tags: [markdown, workflow, foss]
 ---
