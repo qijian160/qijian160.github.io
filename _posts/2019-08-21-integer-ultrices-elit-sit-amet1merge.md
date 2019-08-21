@@ -5,4 +5,3 @@ tags: [markdown, workflow, foss]
 ---
 	1. 一.建立两个分支,(分支A和分支B）
 
-![1](/qijian160.github.io/_assets/img/cjfz.png)
