@@ -6,4 +6,4 @@ tags: [markdown, workflow, foss]
 	1. 一.建立两个分支,(分支A和分支B）
 
 
-![1](/assets/img/cjfz.png)
+![1](\_assets\img\cjfz.png)
