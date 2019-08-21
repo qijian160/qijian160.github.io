@@ -7,3 +7,13 @@ tags: [markdown, workflow, foss]
 
 
 ![1](/_assets/img/cjfz.png)
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+	</title>
+</head>
+<body>
+	<img src='/_assets/img/cjfz.png'>
+</body>
+</html>
