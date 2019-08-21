@@ -1,5 +1,5 @@
 ---
-title: 2019年8月19日 日报 
+title: GIT命令
 teaser: 让努力成为一种习惯
 tags: [markdown, workflow, foss]
 ---
