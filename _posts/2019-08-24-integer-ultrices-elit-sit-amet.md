@@ -41,7 +41,8 @@ tags: [markdown, workflow, foss]
 | service iptables stop                                        | 关闭防火墙                                                   |
 | ls -l /etc/init.d                                            | 查看服务                                                     |
 | top -d 10                                                    | 十秒刷新一次                                                 |
-| netstat                                                 | 监控网络服务状态 -an 按一定顺序排列   -p显示哪个进程在调用   |
-																									进度:50%
+| netstat                                                      | 监控网络服务状态 -an 按一定顺序排列   -p显示哪个进程在调用   |
 
-													进度:50%
+```
+																								进度:50%
+```
