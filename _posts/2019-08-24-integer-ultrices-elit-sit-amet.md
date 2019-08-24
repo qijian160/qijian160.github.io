@@ -44,5 +44,5 @@ tags: [markdown, workflow, foss]
 | netstat                                                      | 监控网络服务状态 -an 按一定顺序排列   -p显示哪个进程在调用   |
 
 ```
-																								进度:50%
+																		进度:50%
 ```
