@@ -1,5 +1,5 @@
 ---
-title: 2019年8月25日 日报 
+title: 2019年8月26日 日报 
 teaser: 让努力成为一种习惯
 tags: [markdown, workflow, foss]
 ---
@@ -14,7 +14,7 @@ tags: [markdown, workflow, foss]
 			进程管理
 
 ```
-																		进度:80%
+							进度:80%
 ```
 ##### 课外讨论话题
 	什么是数据？传送信息的实体
