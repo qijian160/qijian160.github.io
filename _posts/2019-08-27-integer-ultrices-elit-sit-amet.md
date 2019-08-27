@@ -8,9 +8,10 @@ tags: [markdown, workflow, foss]
 
 ##### 1.LINUX学习
 			考核通过
-```
+
 						进度:100%
-```
+
+
 ##### TCP/IP
 			对TCP/IP进行基础了解
 			TCP/IP特点：
@@ -20,6 +21,5 @@ tags: [markdown, workflow, foss]
 			TCP是TCP/IP体系中面向连接的传输层协议，提供全双工的和可靠交付的服务。
 			三次握手与四次挥手的过程
 
-```
+
 						进度80%
-```
