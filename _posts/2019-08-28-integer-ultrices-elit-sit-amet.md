@@ -5,23 +5,6 @@ tags: [markdown, workflow, foss]
 ---
 
 #### javascript
-JS代码分为三个地方写：
-    1.在script标签中写
-        <script type='txt/javascript'></script>
-    2.js代码可以写在h5标签中
-    3.在js文件中可以写js代码，但是需要在html的页面中引用
-        <script src='js文件路径'></script>
-注释 // 单行注释     /*多行注释*/
-alert('弹匡内容'); 如果不点击弹匡中的确定按钮则代码不会继续执行
-js语法注意：
-    1.js代码发生错误该错误的代码后面的js代码不会执行
-    2.如果第一个对script标签中有错误不会影响后面的script代码执行
-    3.script标签中可以加入type='txt/javascript'
-    4.script标签在页面中可以出现多对
-    5.script标签一般是放在body的标签最后的，有的时候会在head中(让其先加在html内容在进行js加载)
-    6.如果script标签是引入外部js文件的作用，那么这对标签中不要写任何js代码，如果要写，重新写一对script标签，里面写代码
-    7.js中字符串类型的值要用双引号或者单引号阔起来
-    8.每行结束都要有分号
 ##### 变量：
     操作的所有数据都在内存中操作
     js中存储数据使用变量的方式
