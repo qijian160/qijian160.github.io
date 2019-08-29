@@ -41,8 +41,8 @@ tags: [markdown, workflow, foss]
   ```
 								        进度:100%
 #####轮播图
-```
-	<!DOCTYPE html>
+  ```
+<!DOCTYPE html>
 <html>
 <head>
 	<title></title>
@@ -130,18 +130,6 @@ tags: [markdown, workflow, foss]
 				img.style.left=-530*index+"px";
 			}
 
-		}
-
-
-		function autoChange(){
-			setInterval(function(){
-				index++;
-				move(img,"left",-530*index,20,function(){});
-			},3000);
-		}
-		autoChange();
-	</script>
-</body>
-</html>
-```
+		}	
+  ```
 								        进度:100%
