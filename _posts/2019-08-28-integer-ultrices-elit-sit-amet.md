@@ -109,4 +109,4 @@ arr[1]=值；
 arr[2]=值；
 取数组长度
 console.log(arr,length);
-								进度:50%
+								        进度:50%
