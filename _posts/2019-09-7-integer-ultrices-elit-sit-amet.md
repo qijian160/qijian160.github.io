@@ -1,7 +1,7 @@
 ---
 title: 2019年9月7日 日报 
 teaser: 让努力成为一种习惯
-tags: [markdown, workflow, foss]篇
+tags: [markdown, workflow, foss]
 ---
 
 #### JS训练
