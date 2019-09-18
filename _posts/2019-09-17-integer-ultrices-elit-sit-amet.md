@@ -139,6 +139,23 @@ var nn = new Vue({
         }
     }
 });
+
+
+事件修饰
+
+   js部分
+ updateXY:function(event){
+            this.x=event.clientX;
+            this.y=event.clientY;
+        },
+        zz:function(event){
+            event.stopPropagation();
+        }
+    }
+HTML部分
+    <div id='mod'v-on:mousemove='updateXY' >{{x}}{{y}}
+            <span @mousemove='zz'>阻止</span> 
+        </div> 
 								        进度:99%
 
 
