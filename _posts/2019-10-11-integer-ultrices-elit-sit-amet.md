@@ -1,5 +1,5 @@
 ---
-title: 2019年10月10日 日报 
+title: 2019年10月11日 日报 
 teaser: 让努力成为一种习惯
 tags: [markdown, workflow, foss]
 ---
