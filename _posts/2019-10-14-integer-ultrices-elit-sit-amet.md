@@ -4,4 +4,4 @@ teaser: 让努力成为一种习惯
 tags: [markdown, workflow, foss]
 ---
 ## 数据库
-     复习oracle
+     复习oracle数据库
