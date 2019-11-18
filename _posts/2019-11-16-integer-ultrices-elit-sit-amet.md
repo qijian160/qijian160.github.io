@@ -14,13 +14,7 @@ tags: [markdown, workflow, foss]
 		2.将文件转换为Servlet代码,并给Servlet添加映射地址为JSP的文件名称
 		3.当用户浏览器访问jsp文件名称时,其实请求的不是jsp文件而是生成的Servlet
 		4.Servlet负责给浏览器进行响应
-		例如:
-		<body>
-			<h3>我们的第一个jsp文件</h3>
-			<% for(int i=0;i<100;i++){%>
-					<div>山</div>
-			<% } %>
-		</body>
+		
 		JSP语法结构:
 		JSP保存的路径:web目录下
 		JSP可以包含HTML代码,Java代码,以及JSP特有的标记
@@ -77,11 +71,4 @@ tags: [markdown, workflow, foss]
 		autoFlush="true或false"--true表示缓冲器自动清除,默认为true
 		isTherdSafe="true或false"--<%%>中的代码是否是同步.true表示是同步,默认false}
 		%>
-		指定项目全局错误页面(项目中只要发生4040就会跳转到错误页面)
-		编写web.xml
-		在根节点加入子节点:
-		<error-page>
-		<error-code>404</error-code>
-		<location>处理404的页面地址</location>
-		</error-page>
 
